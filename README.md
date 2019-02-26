@@ -9,8 +9,8 @@ Vamos treinar um pouco as técnicas do CSS, focando em uma abordagem dividida em
 # Desafio 01
 Neste desafio, vamos utilizar os sinais do CSS: **+**, **>**, **::**
 
-## Sinal de +
-O sinal de + representa um filho direto do elemento anterior.
+## Sinal de >
+O sinal de > representa um filho direto do elemento anterior.
 
 ```css
 .classe-pai > .classe-filho-direto
