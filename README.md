@@ -6,8 +6,14 @@ Vamos treinar um pouco as técnicas do CSS, focando em uma abordagem dividida em
 * O HTML estará escrito e não deve ser alterado
 * O CSS estará vazio, e ele deve ser escrito para fazer o HTML se comportar corretamente
 
+# Como enviar seu resultado?
+* Clone este repositório
+* Crie uma branch com seu nome, todo em minusculo: `git checkout -b nome-sobrenome`
+* Após finalizado, basta realizar o commit e o push.
+* Me envie uma mensagem avisando do seu commit para que eu possa validar seu resultado.
+
 # Desafio 01
-Neste desafio, vamos utilizar os sinais do CSS: **+**, **>**, **::**
+Neste desafio, vamos utilizar os sinais do CSS: **>**, **+**, **::**
 
 ## Sinal de >
 O sinal de > representa um filho direto do elemento anterior.
