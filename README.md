@@ -75,4 +75,12 @@ Assim, o segundo `<p>` por estar depois de outro elemento, não recebe a cor.
 # Hora do desafio
 Agora, vamos aplicar este conhecimento em alguns HTMLs.
 
-[alt text](preview-1.png)
+## Protótipo
+![alt text](preview-1.png)
+
+## Resolução
+Utilize os recursos aprendidos aqui para fazer o layout exatamente como proposto.
+No diretório `src` você encontrará o arquivo `index.html` e `style.css`.
+O arquivo `index.html` não deve ser alterado, tudo o que está lá deve ser mantido exatamente como está.
+O arquivo `style.css` é onde a mágica deve ocorrer.
+Não se preocupe com **Sass** ou processadores assim, não faremos uso por enquanto.
