@@ -13,7 +13,7 @@ Vamos treinar um pouco as técnicas do CSS, focando em uma abordagem dividida em
 * Me envie uma mensagem avisando do seu commit para que eu possa validar seu resultado.
 
 # Desafio 01
-Neste desafio, vamos utilizar os sinais do CSS: **>**, **+**, **::**
+Neste desafio, vamos utilizar os sinais do CSS: **>** e **+**
 
 ## Sinal >
 O sinal de > representa um filho direto do elemento anterior.
