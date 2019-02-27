@@ -74,3 +74,4 @@ Assim, o segundo `<p>` por estar depois de outro elemento, não recebe a cor.
 
 # Hora do desafio
 Agora, vamos aplicar este conhecimento em alguns HTMLs.
+
