@@ -1,3 +1,7 @@
+Antes de começar, lembre-se:
+**Não commit na branch master**
+***
+
 # Desafio CSS
 Este conteúdo tem por objetivo auxiliar no aprendizado de CSS e SASS aplicando suas regras em projeto simulado. Serão vários desafios com temáticas específicas, focando em pequenos assuntos para melhor o aprendizado.
 Vamos treinar um pouco as técnicas do CSS, focando em uma abordagem dividida em três passos:
