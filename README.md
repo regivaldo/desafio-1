@@ -83,6 +83,30 @@ Agora, vamos aplicar este conhecimento em alguns HTMLs.
 ## Protótipo
 ![alt text](preview-1.png)
 
+## HTML
+```html
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Desafio 1</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="content">
+    <div class="text">
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nulla, <strong>nesciunt</strong> et aperiam iusto reprehenderit impedit consequuntur ullam nobis, asperiores temporibus magni id numquam quia dicta possimus vel. Dolorem, suscipit!</p>
+      <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nulla, <strong>nesciunt</strong> et aperiam iusto reprehenderit impedit consequuntur ullam nobis, asperiores temporibus magni id numquam quia dicta possimus vel. Dolorem, suscipit!</p>
+    </div>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nulla, <strong>nesciunt</strong> et aperiam iusto reprehenderit impedit consequuntur ullam nobis, asperiores temporibus magni id numquam quia dicta possimus vel. Dolorem, suscipit!</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+  </div>
+</body>
+</html>
+```
+
 ## Resolução
 Utilize os recursos aprendidos aqui para fazer o layout exatamente como proposto.
 
