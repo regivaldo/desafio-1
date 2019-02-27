@@ -46,6 +46,7 @@ O CSS acima fará com que todos os `<p>` fiquem na cor azul por estar aplicando 
   color: red;
 }
 ```
+
 Já este css, aplicará o tom de vermelho apenas para o `<p>` que está dentro da `.classe-pai` e, não está dentro de outra classe. Assim, o `<p>` que está dentro de `.classe-interna` não receberá a cor vermelha.
 
 ## Sinal +
@@ -55,6 +56,7 @@ Seleciona o elemento imediatamente após a classe anterior.
 ```
 
 Assim, podemos usar para representar uma alteração feita no elemento direto da classe:
+
 ```html
 <div class="content">
   <h1>Texto comum</h1>
@@ -68,8 +70,11 @@ h1 + p {
   color: red;
 }
 ```
+
 O trecho acima aplica a cor vermelha apenas no `<p>` com o *Texto vermelho*.
+
 Isso ocorre por que o sinal de + está logo após o `<h1>`.
+
 Assim, o segundo `<p>` por estar depois de outro elemento, não recebe a cor.
 
 # Hora do desafio
@@ -80,7 +85,11 @@ Agora, vamos aplicar este conhecimento em alguns HTMLs.
 
 ## Resolução
 Utilize os recursos aprendidos aqui para fazer o layout exatamente como proposto.
+
 No diretório `src` você encontrará o arquivo `index.html` e `style.css`.
+
 O arquivo `index.html` não deve ser alterado, tudo o que está lá deve ser mantido exatamente como está.
+
 O arquivo `style.css` é onde a mágica deve ocorrer.
+
 Não se preocupe com **Sass** ou processadores assim, não faremos uso por enquanto.
