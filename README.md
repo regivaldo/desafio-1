@@ -84,6 +84,7 @@ Agora, vamos aplicar este conhecimento em alguns HTMLs.
 
 ## Protótipo
 ![alt text](preview-1.png)
+![Link do Zeplin](https://zpl.io/29OmxxW)
 
 ## HTML
 ```html
