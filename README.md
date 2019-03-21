@@ -104,7 +104,7 @@ Agora, vamos aplicar este conhecimento em alguns HTMLs.
       <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nulla, <strong>nesciunt</strong> et aperiam iusto reprehenderit impedit consequuntur ullam nobis, asperiores temporibus magni id numquam quia dicta possimus vel. Dolorem, suscipit!</p>
     </div>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt nulla, <strong>nesciunt</strong> et aperiam iusto reprehenderit impedit consequuntur ullam nobis, asperiores temporibus magni id numquam quia dicta possimus vel. Dolorem, suscipit!</p>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ita prorsus, inquam; Quid de Platone aut de Democrito loquar? Hoc non est positum in nostra actione. Si longus, levis; Expectoque quid ad id, quod quaerebam, respondeas. Non enim quaero quid verum, sed quid cuique dicendum sit.</p>
   </div>
 </body>
 </html>
